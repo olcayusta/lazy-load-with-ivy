@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "lazy-load-with-ivy"
+    }
+  },
+  "defaultProject": "lazy-load-with-ivy",
+  "cli": {
+    "analytics": "673101dd-4ead-43f3-b6a7-9f1ef750db4b"
+  }
 }
